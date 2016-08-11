@@ -58,9 +58,9 @@ dist/
 ```
 
 Next, you'll want to turn this command into a reusable "script" in
-your `package.json` by adding:
+your `package.json` by [adding](https://docs.npmjs.com/files/package.json#scripts):
 
-```
+```json
 "scripts": {
   "build": "felt --recipe 18F --src src --export dist"
 }
@@ -74,6 +74,8 @@ npm run build
 
 :rocket:
 
+[npm]: https://npmjs.com
+[package.json]: https://docs.npmjs.com/files/package.json
 [rollup]: https://github.com/rollup/rollup
 [Babel]: http://babeljs.io/
 [Sass]: http://sass-lang.com/
