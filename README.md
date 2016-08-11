@@ -53,7 +53,7 @@ dist/
 +-- js/
     |
     +-- main.js
-|   |
+    |
     +-- main.js.map
 ```
 
@@ -73,3 +73,10 @@ npm run build
 ```
 
 :rocket:
+
+[rollup]: https://github.com/rollup/rollup
+[Babel]: http://babeljs.io/
+[Sass]: http://sass-lang.com/
+[Felt]: https://cognitom.github.io/felt/
+[cssnext]: http://cssnext.io/
+[postcss]: http://postcss.org/
