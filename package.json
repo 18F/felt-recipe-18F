@@ -16,8 +16,7 @@
   "dependencies": {
     "babel-preset-es2015-rollup": "^1.1.1",
     "felt-postcss": "^0.1.0",
-    "felt-rollup": "github:shawnbot/felt-rollup",
-    "felt-sass": "*",
+    "felt-sass": "github:18F/felt-sass",
     "node-sass": "^3.8.0",
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^8.0.2",
