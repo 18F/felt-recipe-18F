@@ -1,6 +1,6 @@
 {
   "name": "felt-recipe-18F",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The 18F Felt recipe",
   "main": "felt.config.js",
   "homepage": "https://github.com/18F/felt-recipe-18F",
